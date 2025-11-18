@@ -3,8 +3,8 @@
 ## Setup
 1. Clone this repository:  
    ```bash
-   git clone <this‑repo‑url>
-   cd <repo>
+   git clone https://gitlab.com/cit_4640/4640-ansible-roles-lab.git
+   cd 4640-ansible-roles-lab
    ```
 
    
