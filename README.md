@@ -1,4 +1,7 @@
 # lab-wk-11
+Justin Kim
+Karnveer Basra
+Henry Wong
 
 ## Setup
 1. Clone this repository:  
