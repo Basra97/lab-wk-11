@@ -55,4 +55,9 @@ ansible/
 ansible-playbook -i inventory/aws_ec2.yml playbook.yml --private-key ~/.ssh/aws
 ```
 
+Then check your front end
+
+`http://<IP>`
+
+
 
