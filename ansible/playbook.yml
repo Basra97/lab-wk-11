@@ -1,0 +1,14 @@
+---
+- name: Configure Redis Server
+  hosts: server_role_redis_server
+  become: true
+  remote_user: rocky
+  roles:
+    - redis
+
+- name: Configure Frontend Server
+  hosts: server_role_frontend_server
+  become: true
+  remote_user: ubuntu
+  roles:
+    - frontend
