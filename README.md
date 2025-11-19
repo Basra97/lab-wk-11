@@ -22,6 +22,7 @@ ssh-keygen -t ed25519 -f ~/.ssh/aws -C "aws-lab-key"
 ## Run the terraform configuration:
 1. Initalize and apply in terraform directory:
 ```
+cd terraform
 terraform init
 terraform apply
 ```
